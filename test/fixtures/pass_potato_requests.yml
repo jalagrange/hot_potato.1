@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time_requested: 2014-12-23 15:45:10
+  time_accepted: 2014-12-23 15:45:10
+  time_rejected: 2014-12-23 15:45:10
+  comment: MyText
+
+two:
+  time_requested: 2014-12-23 15:45:10
+  time_accepted: 2014-12-23 15:45:10
+  time_rejected: 2014-12-23 15:45:10
+  comment: MyText
