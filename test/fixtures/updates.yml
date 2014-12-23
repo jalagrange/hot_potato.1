@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  potato_id: 
+  time_completed: 2014-12-23 15:45:06
+  time_accepted: 2014-12-23 15:45:06
+  initial_comment: MyText
+  time_to_finish: 2014-12-23 15:45:06
+
+two:
+  potato_id: 
+  time_completed: 2014-12-23 15:45:06
+  time_accepted: 2014-12-23 15:45:06
+  initial_comment: MyText
+  time_to_finish: 2014-12-23 15:45:06
