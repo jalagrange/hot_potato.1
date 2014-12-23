@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  status: MyString
+  time_to_finish: 2014-12-23 15:45:03
+
+two:
+  user_id: 
+  status: MyString
+  time_to_finish: 2014-12-23 15:45:03
